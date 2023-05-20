@@ -5,7 +5,7 @@
 #### Novelty Detection from Temperature Oscillation Data
 
 <img src="images/bachelor1.png?raw=true" alt= “” width="50%" height="50%">
-<img src="images/bachelor2.png?raw=true"/>
+<img src="images/bachelor2.png?raw=true" alt= “” width="50%" height="50%">
 
 [View thesis](/pdf/Bachelor_thesis_elec_2020_hilander_helena.pdf)
 
@@ -13,8 +13,8 @@
 
 #### Nitrous oxide emission dynamics and emission factors of two Finnish wastewater treatment plants
 
-<img src="images/master1.png?raw=true"/>
-<img src="images/master2.png?raw=true"/>
+<img src="images/master1.png?raw=true" alt= “” width="50%" height="50%">
+<img src="images/master2.png?raw=true" alt= “” width="50%" height="50%">
 
 [View thesis](/pdf/Masters_thesis_2022_Hilander_Helena.pdf)
 
