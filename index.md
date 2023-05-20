@@ -4,8 +4,8 @@
 
 #### Novelty Detection from Temperature Oscillation Data
 
-<img src="images/epsilon_Manhattan346-eps-converted-to.pdf"/>
-<img src="images/pred_Normaltestdataofpipe3_Manhattan346-eps-converted-to.pdf"/>
+<img src="images/bachelor1.png?raw=true"/>
+<img src="images/bachelor2.png?raw=true"/>
 
 [View thesis](/pdf/Bachelor_thesis_elec_2020_hilander_helena.pdf)
 
@@ -13,8 +13,8 @@
 
 #### Nitrous oxide emission dynamics and emission factors of two Finnish wastewater treatment plants
 
-<img src="images/Nitrite_correlation_all_data.pdf"/>
-<img src="images/linear_reg.pdf"/>
+<img src="images/master1.png?raw=true"/>
+<img src="images/master2.png?raw=true"/>
 
 [View thesis](/pdf/Masters_thesis_2022_Hilander_Helena.pdf)
 
