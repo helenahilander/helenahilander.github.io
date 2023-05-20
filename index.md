@@ -1,6 +1,6 @@
-## Portfolio
+## Projects in data analytics, machine learning and programming
 
-### Projects in data analytics, machine learning and programming
+---
 
 #### Novelty Detection from Temperature Oscillation Data
 
@@ -8,6 +8,7 @@
 <img src="images/pred_Normaltestdataofpipe3_Manhattan346-eps-converted-to.pdf"/>
 
 [View thesis](/pdf/Bachelor_thesis_elec_2020_hilander_helena.pdf)
+
 ---
 
 #### Nitrous oxide emission dynamics and emission factors of two Finnish wastewater treatment plants
