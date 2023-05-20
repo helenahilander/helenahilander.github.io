@@ -4,7 +4,7 @@
 
 #### Novelty Detection from Temperature Oscillation Data
 
-<img src="images/bachelor1.png?raw=true"/>
+<img src="images/bachelor1.png?raw=true"/  alt= “” width="50%" height="50%">
 <img src="images/bachelor2.png?raw=true"/>
 
 [View thesis](/pdf/Bachelor_thesis_elec_2020_hilander_helena.pdf)
