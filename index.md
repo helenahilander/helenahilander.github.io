@@ -5,6 +5,7 @@
 #### Novelty Detection from Temperature Oscillation Data
 
 <img src="images/bachelor1.png?raw=true" alt= “Model Training” width="50%" height="50%">
+*image_caption*
 <img src="images/bachelor2.png?raw=true" alt= “Model Predictions” width="50%" height="50%">
 
 [View thesis](/pdf/Bachelor_thesis_elec_2020_hilander_helena.pdf)
