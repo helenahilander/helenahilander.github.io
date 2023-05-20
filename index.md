@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects in data analytics, machine learning and programming
 
 [Novelty Detection from Temperature Oscillation Data](/pdf/Bachelor_thesis_elec_2020_hilander_helena.pdf)
 <img src="images/epsilon_Manhattan346-eps-converted-to.pdf?raw=true"/>
@@ -15,12 +15,12 @@ wastewater treatment plants](/pdf/Masters_thesis_2022_Hilander_Helena.pdf)
 <img src="images/linear_reg.pdf?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Data Visualization GUI]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Pro
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
