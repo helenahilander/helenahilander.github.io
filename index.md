@@ -17,7 +17,7 @@ In my bachelor's thesis, I developed a novelty detection pipeline for recognizin
 
 ### Nitrous oxide emission dynamics and emission factors of two Finnish wastewater treatment plants
 
-In my master's thesis I studied the nitrous oxide emissions of wastewater treatment. The study included measurements, data cleaning and data analysis. The data was cleaned and analyzed with Python.
+In my master's thesis, I studied the nitrous oxide emissions of wastewater treatment. The study included measurements, data cleaning and data analysis. The data was cleaned and analyzed with Python.
 
 <img src="images/master1.png?raw=true" />
 <img src="images/master2.png?raw=true" />
