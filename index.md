@@ -41,19 +41,6 @@ In this project I built a program for visualizing numerical data with PyQt5. The
 [View code on Github](https://github.com/helenahilander/data-visualization-gui)
 
 
----
-
-### Projects
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
