@@ -32,7 +32,14 @@ In my master's thesis I studied the nitrous oxide emissions of wastewater treatm
 ---
 #### Data Visualization GUI
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this project I built a program for visualizing numerical data with PyQt5. The aim was to apply as little built in libraries as possible and getting familiar with building programs from the scratch.
+
+<img src="images/gui.png?raw=true" alt= “” width="50%" height="50%">
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+
+[View code on Github](https://github.com/helenahilander/data-visualization-gui)
+
 
 ---
 
